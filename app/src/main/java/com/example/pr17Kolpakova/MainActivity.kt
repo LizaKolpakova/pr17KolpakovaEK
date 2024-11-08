@@ -320,7 +320,7 @@ fun google(drawerState: DrawerState, scope: CoroutineScope, navController: NavCo
                                         color = colorResource(R.color.white)
                                     )
                                     Text(
-                                        "1440 min - \$300",
+                                        "1440 min - \$100",
                                         modifier = Modifier.padding(top = 9.dp),
                                         color = colorResource(R.color.white)
                                     )
